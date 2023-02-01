@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "P62uNxDx9ef+IAQRtEsB940iVEhlvnXf8jYSRSrW+Bg=",
+  "Source": "EmBillingWebAPI.API",
+  "BasePath": "_content/EmBillingWebAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

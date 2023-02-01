@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EmBillingWebAPI.Manager/1.0.0": {
+        "dependencies": {
+          "EmBillingWebAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EmBillingWebAPI.Manager.dll": {}
+        }
+      },
+      "EmBillingWebAPI.Domain/1.0.0": {
+        "runtime": {
+          "EmBillingWebAPI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmBillingWebAPI.Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmBillingWebAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
