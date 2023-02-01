@@ -1,0 +1,186 @@
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\appsettings.json
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.API.exe
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.API.deps.json
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.API.runtimeconfig.json
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.API.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.API.pdb
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.Domain.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.Domain.pdb
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.csproj.AssemblyReference.cache
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.AssemblyInfoInputs.cache
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.AssemblyInfo.cs
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.csproj.CoreCompileInputs.cache
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\staticwebassets\msbuild.EmBillingWebAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\staticwebassets\msbuild.build.EmBillingWebAPI.API.props
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmBillingWebAPI.API.props
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmBillingWebAPI.API.props
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\scopedcss\bundle\EmBillingWebAPI.API.styles.css
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.csproj.CopyComplete
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\refint\EmBillingWebAPI.API.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.pdb
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.genruntimeconfig.cache
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\ref\EmBillingWebAPI.API.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.Infrastructure.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.Infrastructure.pdb
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Humanizer.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.Manager.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.Manager.pdb
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\appsettings.json
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.API.exe
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.API.deps.json
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.API.runtimeconfig.json
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.API.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.API.pdb
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Humanizer.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.Domain.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.Infrastructure.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.Manager.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.Manager.pdb
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.Infrastructure.pdb
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\bin\Debug\net6.0\EmBillingWebAPI.Domain.pdb
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.csproj.AssemblyReference.cache
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.AssemblyInfoInputs.cache
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.AssemblyInfo.cs
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.csproj.CoreCompileInputs.cache
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\staticwebassets\msbuild.EmBillingWebAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\staticwebassets\msbuild.build.EmBillingWebAPI.API.props
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmBillingWebAPI.API.props
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmBillingWebAPI.API.props
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\scopedcss\bundle\EmBillingWebAPI.API.styles.css
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.csproj.CopyComplete
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\refint\EmBillingWebAPI.API.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.pdb
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\EmBillingWebAPI.API.genruntimeconfig.cache
+C:\Emtec Material\API Task Emte Billing Forecasting\New Practice\EmBillingAPI\EmBillingWebAPI.Domain\EmBillingWebAPI.API\obj\Debug\net6.0\ref\EmBillingWebAPI.API.dll
