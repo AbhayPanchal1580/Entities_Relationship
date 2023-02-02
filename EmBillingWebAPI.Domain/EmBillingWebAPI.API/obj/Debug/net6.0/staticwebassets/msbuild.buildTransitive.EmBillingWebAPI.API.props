@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EmBillingWebAPI.API.props" />
+</Project>
