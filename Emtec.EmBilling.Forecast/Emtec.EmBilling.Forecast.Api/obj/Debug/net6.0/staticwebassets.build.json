@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RRwGI4tUQCyJT63Q0k+JdNI8C85cExk0S1WrqYRUeyg=",
+  "Source": "Emtec.EmBilling.Forecast.Api",
+  "BasePath": "_content/Emtec.EmBilling.Forecast.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

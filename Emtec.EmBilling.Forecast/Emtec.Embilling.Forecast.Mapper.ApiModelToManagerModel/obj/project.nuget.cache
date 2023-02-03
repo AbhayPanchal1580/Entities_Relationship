@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oNMgxGKorrKdsINhADmXLpbM92nyldI3p+DSYOampGDS4ZcGcvAS2MsMmC01ikVr7RZv4iAm3lKGMqkuHvL8Tw==",
+  "success": true,
+  "projectFilePath": "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.Embilling.Forecast.Mapper.ApiModelToManagerModel\\Emtec.Embilling.Forecast.Mapper.ApiModelToManagerModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhay.panchal\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\abhay.panchal\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

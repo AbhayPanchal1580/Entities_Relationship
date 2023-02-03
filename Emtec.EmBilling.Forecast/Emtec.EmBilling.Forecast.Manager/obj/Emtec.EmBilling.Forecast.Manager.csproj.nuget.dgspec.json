@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Manager\\Emtec.EmBilling.Forecast.Manager.csproj": {}
+  },
+  "projects": {
+    "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Abstractions\\Emtec.EmBilling.Forecast.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Abstractions\\Emtec.EmBilling.Forecast.Abstractions.csproj",
+        "projectName": "Emtec.EmBilling.Forecast.Abstractions",
+        "projectPath": "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Abstractions\\Emtec.EmBilling.Forecast.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\abhay.panchal\\.nuget\\packages\\",
+        "outputPath": "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abhay.panchal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Api.Models\\Emtec.EmBilling.Forecast.Api.Models.csproj": {
+                "projectPath": "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Api.Models\\Emtec.EmBilling.Forecast.Api.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Api.Models\\Emtec.EmBilling.Forecast.Api.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Api.Models\\Emtec.EmBilling.Forecast.Api.Models.csproj",
+        "projectName": "Emtec.EmBilling.Forecast.Api.Models",
+        "projectPath": "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Api.Models\\Emtec.EmBilling.Forecast.Api.Models.csproj",
+        "packagesPath": "C:\\Users\\abhay.panchal\\.nuget\\packages\\",
+        "outputPath": "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Api.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abhay.panchal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Manager\\Emtec.EmBilling.Forecast.Manager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Manager\\Emtec.EmBilling.Forecast.Manager.csproj",
+        "projectName": "Emtec.EmBilling.Forecast.Manager",
+        "projectPath": "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Manager\\Emtec.EmBilling.Forecast.Manager.csproj",
+        "packagesPath": "C:\\Users\\abhay.panchal\\.nuget\\packages\\",
+        "outputPath": "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Manager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abhay.panchal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Abstractions\\Emtec.EmBilling.Forecast.Abstractions.csproj": {
+                "projectPath": "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Abstractions\\Emtec.EmBilling.Forecast.Abstractions.csproj"
+              },
+              "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Api.Models\\Emtec.EmBilling.Forecast.Api.Models.csproj": {
+                "projectPath": "C:\\Emtec Material\\API Task Emte Billing Forecasting\\Final\\Emtec.EmBilling.Forecast\\Emtec.EmBilling.Forecast.Api.Models\\Emtec.EmBilling.Forecast.Api.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

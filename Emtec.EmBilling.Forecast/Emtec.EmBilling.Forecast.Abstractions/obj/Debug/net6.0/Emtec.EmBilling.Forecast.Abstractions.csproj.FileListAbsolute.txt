@@ -1,0 +1,15 @@
+C:\Emtec Material\API Task Emte Billing Forecasting\Final\Emtec.EmBilling.Forecast\Emtec.EmBilling.Forecast.Abstractions\bin\Debug\net6.0\Emtec.EmBilling.Forecast.Abstractions.deps.json
+C:\Emtec Material\API Task Emte Billing Forecasting\Final\Emtec.EmBilling.Forecast\Emtec.EmBilling.Forecast.Abstractions\bin\Debug\net6.0\Emtec.EmBilling.Forecast.Abstractions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\Final\Emtec.EmBilling.Forecast\Emtec.EmBilling.Forecast.Abstractions\bin\Debug\net6.0\Emtec.EmBilling.Forecast.Abstractions.pdb
+C:\Emtec Material\API Task Emte Billing Forecasting\Final\Emtec.EmBilling.Forecast\Emtec.EmBilling.Forecast.Abstractions\bin\Debug\net6.0\Emtec.EmBilling.Forecast.Api.Models.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\Final\Emtec.EmBilling.Forecast\Emtec.EmBilling.Forecast.Abstractions\bin\Debug\net6.0\Emtec.EmBilling.Forecast.Api.Models.pdb
+C:\Emtec Material\API Task Emte Billing Forecasting\Final\Emtec.EmBilling.Forecast\Emtec.EmBilling.Forecast.Abstractions\obj\Debug\net6.0\Emtec.EmBilling.Forecast.Abstractions.csproj.AssemblyReference.cache
+C:\Emtec Material\API Task Emte Billing Forecasting\Final\Emtec.EmBilling.Forecast\Emtec.EmBilling.Forecast.Abstractions\obj\Debug\net6.0\Emtec.EmBilling.Forecast.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emtec Material\API Task Emte Billing Forecasting\Final\Emtec.EmBilling.Forecast\Emtec.EmBilling.Forecast.Abstractions\obj\Debug\net6.0\Emtec.EmBilling.Forecast.Abstractions.AssemblyInfoInputs.cache
+C:\Emtec Material\API Task Emte Billing Forecasting\Final\Emtec.EmBilling.Forecast\Emtec.EmBilling.Forecast.Abstractions\obj\Debug\net6.0\Emtec.EmBilling.Forecast.Abstractions.AssemblyInfo.cs
+C:\Emtec Material\API Task Emte Billing Forecasting\Final\Emtec.EmBilling.Forecast\Emtec.EmBilling.Forecast.Abstractions\obj\Debug\net6.0\Emtec.EmBilling.Forecast.Abstractions.csproj.CoreCompileInputs.cache
+C:\Emtec Material\API Task Emte Billing Forecasting\Final\Emtec.EmBilling.Forecast\Emtec.EmBilling.Forecast.Abstractions\obj\Debug\net6.0\Emtec.EmBilling.Forecast.Abstractions.csproj.CopyComplete
+C:\Emtec Material\API Task Emte Billing Forecasting\Final\Emtec.EmBilling.Forecast\Emtec.EmBilling.Forecast.Abstractions\obj\Debug\net6.0\Emtec.EmBilling.Forecast.Abstractions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\Final\Emtec.EmBilling.Forecast\Emtec.EmBilling.Forecast.Abstractions\obj\Debug\net6.0\refint\Emtec.EmBilling.Forecast.Abstractions.dll
+C:\Emtec Material\API Task Emte Billing Forecasting\Final\Emtec.EmBilling.Forecast\Emtec.EmBilling.Forecast.Abstractions\obj\Debug\net6.0\Emtec.EmBilling.Forecast.Abstractions.pdb
+C:\Emtec Material\API Task Emte Billing Forecasting\Final\Emtec.EmBilling.Forecast\Emtec.EmBilling.Forecast.Abstractions\obj\Debug\net6.0\ref\Emtec.EmBilling.Forecast.Abstractions.dll

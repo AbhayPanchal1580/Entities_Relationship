@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Emtec.EmBilling.Forecast.Api.props" />
+</Project>
